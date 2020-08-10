@@ -1,0 +1,121 @@
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background: #cffffe;
+  padding: 0 16px;
+}
+
+
+
+
+
+h1 {
+  color: #7fdbda;
+  font-family: "Lemonada", cursive;
+  font-weight: 200;
+  padding: 10px 0 10px 20px;
+}
+
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 3rem;
+  overflow-y: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 10px;
+
+}
+.blog-footer {
+  padding: 50px;
+  margin: 100px;
+  color: #ddf3f5;
+  text-align: center;
+  background-color: #ddf3f5;
+  border-top: .05rem solid #ddf3f5;
+}
+
+footer p {
+  color: #ddf3f5;
+}
+.row {
+   padding-left: 10px;
+   left: 100px;
+   margin-top: 10px;
+
+}
+
+.btn {
+  margin: 10px 30px 10px 10px;
+}
+.text-muted {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.float-right {
+  margin-bottom: .25rem;
+}
+.jumbotronmain {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/space.jpg);
+}
+.jumbotronsports {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/sports.jpg);
+}
+
+.jumbotrontech {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/tech.jpg);
+}
+.jumbotronanimal {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/animal.jpg);
+}
+.jumbotrongeog {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/geography.jpg);
+}
+.jumbotronhis {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/history.jpg);
+}
+.jumbotronmath {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-image: url(main/math.jpg);
+}
+.jumbotronbusiness {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/business.jpg);
+}
+.jumbotronscience {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/science.jpg);
+}
+.jumbotronothers {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(main/others.jpg);
+}
